@@ -1,4 +1,4 @@
-# AWS Freelance Portfolio Project
+# AWS Cloud Infrastructure & Monitoring project 
 
 ## 📌 Project Overview
 
